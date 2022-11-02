@@ -1,0 +1,401 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://index.jsxygkj.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 46263,
+            "children": [
+                {
+                    "url": "https://index.jsxygkj.com/img//logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/aoq.png",
+                    "path": "img/aoq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/yapi.png",
+                    "path": "img/yapi.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/suxiang.png",
+                    "path": "img/suxiang.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/frp.png",
+                    "path": "img/frp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/nexus.png",
+                    "path": "img/nexus.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/gitlab.png",
+                    "path": "img/gitlab.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/jenkins.png",
+                    "path": "img/jenkins.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/lanhu.png",
+                    "path": "img/lanhu.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/vcard.png",
+                    "path": "img/vcard.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/douji.png",
+                    "path": "img/douji.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/nacos.png",
+                    "path": "img/nacos.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/def.png",
+                    "path": "img/def.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/file.png",
+                    "path": "img/file.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/mq.png",
+                    "path": "img/mq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/gt.png",
+                    "path": "img/gt.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/txzy.jpg",
+                    "path": "img/txzy.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/gudu.png",
+                    "path": "img/gudu.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/caoliao.png",
+                    "path": "img/caoliao.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/yuque.png",
+                    "path": "img/yuque.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/yinxiang.png",
+                    "path": "img/yinxiang.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/mvn.png",
+                    "path": "img/mvn.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/ali.png",
+                    "path": "img/ali.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/uniapp.png",
+                    "path": "img/uniapp.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/imgcook.png",
+                    "path": "img/imgcook.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/gitee.png",
+                    "path": "img/gitee.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/bugly.png",
+                    "path": "img/bugly.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/weixin.png",
+                    "path": "img/weixin.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/aliyun.png",
+                    "path": "img/aliyun.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/arcsoft.png",
+                    "path": "img/arcsoft.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/jquery.png",
+                    "path": "img/jquery.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/bootstrap-favicon.png",
+                    "path": "img/bootstrap-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/vue-favicon.png",
+                    "path": "img/vue-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/uigreat-favicon.jpg",
+                    "path": "img/uigreat-favicon.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/huaban-favicon.png",
+                    "path": "img/huaban-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/dribbble-favicon.png",
+                    "path": "img/dribbble-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/behance-favicon.png",
+                    "path": "img/behance-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/pinterest-favicon.png",
+                    "path": "img/pinterest-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/zcool-favicon.jpg",
+                    "path": "img/zcool-favicon.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/thefwa-favicon.png",
+                    "path": "img/thefwa-favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/img/icofont.png",
+                    "path": "img/icofont.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/js/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 268038,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/css/iconfont.css",
+                    "path": "css/iconfont.css",
+                    "saved": true,
+                    "size": 6797,
+                    "children": [
+                        {
+                            "url": "https://index.jsxygkj.com/css/iconfont.eot?t=1516947764295",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://index.jsxygkj.com/css/iconfont.eot?t=1516947764295#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://index.jsxygkj.com/css/iconfont.ttf?t=1516947764295",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://index.jsxygkj.com/css/iconfont.svg?t=1516947764295#iconfont",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://index.jsxygkj.com/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 5948,
+                    "children": []
+                },
+                {
+                    "url": "https://index.jsxygkj.com/favcion.ico",
+                    "path": "favcion.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "index-jsxygkj-com-kips66pp",
+    "info": {
+        "remark": [],
+        "title": "秀圆果",
+        "domain": "index.jsxygkj.com",
+        "origin": "https://index.jsxygkj.com",
+        "ip": "47.102.195.242",
+        "main": "index.html",
+        "url": "https://index.jsxygkj.com/",
+        "totalSize": "327 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://index.jsxygkj.com/#operation",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://index.jsxygkj.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.12.2",
+                "date": "Wed, 02 Nov 2022 02:21:23 GMT",
+                "content-type": "text/html",
+                "content-length": "48938",
+                "last-modified": "Fri, 21 Oct 2022 08:23:15 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "\"635256f3-bf2a\"",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-11-02T02:21:22.876Z",
+            "end": "2022-11-02T02:21:33.291Z"
+        }
+    },
+    "options": {
+        "url": "https://index.jsxygkj.com/#operation",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
